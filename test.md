@@ -1,4 +1,4 @@
-## Made by Jan van den Berg and Nikolas Theofanous
+## Excercise 1_Glarying meaty mouflon
 
 ### Potential contribution of Geoscripting 
 #### Nikolas
