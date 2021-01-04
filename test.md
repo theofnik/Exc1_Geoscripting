@@ -7,7 +7,7 @@
 #### Jan
 Geoscripting is a must for me as MGI student. I would like to learn how to apply coding skills to geo problems. 
 
-### R or Rython Knowledge 
+### Specific R and Rython Knowledge 
 #### Jan
 I have programming exerience in Java, but not much in Python and no in R. But this shouldn't be a problem. To finish our project we would need knowledge to handle big raster datasets. Also, the processing should not take much time
 #### Nikolas
@@ -20,7 +20,7 @@ I have programming exerience in Java, but not much in Python and no in R. But th
 
 ### Final project description
 **Title**
-*Monitor changes in sea ice extent for a certain area*
+*Monitor temporal changes in sea ice extent for a certain area*
 
 1. Avaliable data
    1a. https://nsidc.org/data/modis/data_summaries
