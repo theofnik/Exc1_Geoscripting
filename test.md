@@ -1,4 +1,4 @@
-## Excercise 1_Glarying meaty mouflon
+## Excercise 1_Glarying Meaty Mouflon
 
 ### Potential contribution of Geoscripting 
 #### Nikolas
